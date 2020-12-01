@@ -1,11 +1,11 @@
 Commandes Git les plus utilisees en mode console
 
-avec la console run cmd de windows ca marche pas. Il faut prendre la fenêtre Git Shell qui s'installe avec l'installation du client git
+avec la console run cmd de windows ca marche pas. Il faut prendre la fenÃªtre Git Shell qui s'installe avec l'installation du client git
 
 https://www.youtube.com/watch?v=0fKg7e37bQE
 
 
-
+-----------------------------------
 
 git clone le_url
 
@@ -42,7 +42,7 @@ Switch to your new branch :
 
 git checkout Alain
 
-git checkout -b Alain (crée une nouvelle et embraque dedans)
+git checkout -b Alain (crÃ©e une nouvelle et embraque dedans)
 
 
 You can see all branches created by using
@@ -57,8 +57,3 @@ git branch
 git checkout master (aller dans master)
 git merge Alain
 
-
-cd D:\DataAll\DataCegep\Session_XX9_TravailleDeSyntheseFin\TP1_Partie_2_Application_Pour_ornitologues\projet_synthese
-
-aaaaaa
-BBBBBB
